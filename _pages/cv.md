@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ Education
 * M.S. in Johns Hopkins University, 2022 - 2024 (expected)
 * B.E. in Southern University of Science and Technology, 2018 - 2022
 
-Work experience
+Internships
 ======
 * 01/2022 - 08/2022: Speech Translation Intern
   * ByteDance AI Lab, Shenzhen, China
