@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chutong Meng"
 title_separator          : "-"
 name                     : &name "Chutong Meng"
-description              : &description "personal description"
+description              : &description "Master student at Johns Hopkins University"
 url                      : https://mct10.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://mct10.github.io/"
@@ -77,37 +77,10 @@ author:
   avatar           : "profile.png"
   bio              : "Master student at Johns Hopkins University"
   location         : "Baltimore, MD"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+#  employer         :
+  googlescholar    : "https://scholar.google.com/citations?user=lgmpN3kAAAAJ&hl=en"
   email            : mengct00@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "mct10"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
