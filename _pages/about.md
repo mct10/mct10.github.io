@@ -13,6 +13,6 @@ redirect_from:
 I am a second-year master student at Johns Hopkins University.
 Prior to coming to JHU, I received my Bachelor's degree in Computer Science and Technology
 from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), where I was supervised
-by [Prof. Tom Ko](https://tomkocse.github.io/).
+by [Prof. Tom Ko](https://tomkocse.github.io/) and [Prof. James Yu](https://jamesyu.me/).
 
 My research interests lie in speech and language processing.
