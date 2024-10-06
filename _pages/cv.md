@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Johns Hopkins University, 2022 - 2024 (expected)
-* B.E. in Southern University of Science and Technology, 2018 - 2022
+* PhD in Computer Science, George Mason University, 2024 - 2029 (expected)
+* M.S. in Computer Science, Johns Hopkins University, 2022 - 2024
+* B.E. in Computer Science, Southern University of Science and Technology, 2018 - 2022
 
 Internships
 ======
@@ -33,6 +34,9 @@ Skills
 * Toolkits
   * [fairseq](https://github.com/facebookresearch/fairseq)
   * [NeurST](https://github.com/bytedance/neurst)
-* Music Instruments
-  * Piano (I have played the piano for 10 years)
-  * Saxophone (Soprano sax and alto sax)
+
+[//]: # (* Music Instruments)
+
+[//]: # (  * Piano &#40;I have played the piano for 10 years&#41;)
+
+[//]: # (  * Saxophone &#40;Soprano sax and alto sax&#41;)
