@@ -7,7 +7,16 @@ author_profile: true
 
 \* indicates equal contribution.
 
-- [ACL 2024] [RepCodec: A Speech Representation Codec for Speech Tokenization](https://arxiv.org/abs/2309.00169).
+- [EMNLP 2025 main] Speech Vecalign: an Embedding-based Method for Aligning Parallel Speech Documents.
+_**Chutong Meng**_, Philipp Koehn. (to appear)
+
+- [Interspeech 2025] [The ML-SUPERB 2.0 challenge: Towards inclusive ASR benchmarking for all language varieties](https://arxiv.org/pdf/2509.07139).
+William Chen, _**Chutong Meng**_, Jiatong Shi, Martijn Bartelds, Shih-Heng Wang, Hsiu-Hsuan Wang, Rafael Mosquera, Sara Hincapie, Dan Jurafsky, Antonis Anastasopoulos, Hung-yi Lee, Karen Livescu, Shinji Watanabe.
+
+- [IWSLT 2025] [GMU Systems for the IWSLT 2025 Low-Resource Speech Translation Shared Task](https://arxiv.org/pdf/2505.21781).
+_**Chutong Meng**_, Antonios Anastasopoulos. [[code]](https://github.com/mct10/IWSLT2025_LowRes_ST)
+
+- [ACL 2024 main] [RepCodec: A Speech Representation Codec for Speech Tokenization](https://arxiv.org/abs/2309.00169).
   Zhichao Huang\*, **_Chutong Meng_**\*, Tom Ko. [[code](https://github.com/mct10/RepCodec)]
   
 - [TASLP 2024] [Wavcaps: A chatgpt-assisted weakly-labelled audio captioning dataset for audio-language multimodal research](https://arxiv.org/abs/2303.17395).
