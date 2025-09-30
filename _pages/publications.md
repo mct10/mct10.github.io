@@ -7,8 +7,8 @@ author_profile: true
 
 \* indicates equal contribution.
 
-- [EMNLP 2025 main] Speech Vecalign: an Embedding-based Method for Aligning Parallel Speech Documents.
-_**Chutong Meng**_, Philipp Koehn. (to appear)
+- [EMNLP 2025 main] [Speech Vecalign: an Embedding-based Method for Aligning Parallel Speech Documents](https://arxiv.org/abs/2509.18360).
+_**Chutong Meng**_, Philipp Koehn. [[code]](https://github.com/mct10/Speech-Vecalign)
 
 - [Interspeech 2025] [The ML-SUPERB 2.0 challenge: Towards inclusive ASR benchmarking for all language varieties](https://arxiv.org/pdf/2509.07139).
 William Chen, _**Chutong Meng**_, Jiatong Shi, Martijn Bartelds, Shih-Heng Wang, Hsiu-Hsuan Wang, Rafael Mosquera, Sara Hincapie, Dan Jurafsky, Antonis Anastasopoulos, Hung-yi Lee, Karen Livescu, Shinji Watanabe.
