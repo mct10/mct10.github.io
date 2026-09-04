@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I am a 2nd-year PhD student at George Mason University, where I'm working with [Prof. Antonios Anastasopoulos](https://nlp.cs.gmu.edu/author/antonios-anastasopoulos/)
+I am a 3rd-year PhD student at George Mason University, where I'm working with [Prof. Antonios Anastasopoulos](https://nlp.cs.gmu.edu/author/antonios-anastasopoulos/)
 at the [GMU NLP Group](https://nlp.cs.gmu.edu/).
 Prior to joining GMU, I completed my MSE degree in CS at Johns Hopkins University, where I was fortunate to work with [Prof. Philipp Koehn](https://www.cs.jhu.edu/~phi/).
 Before that, I received my Bachelor's degree in Computer Science and Technology
